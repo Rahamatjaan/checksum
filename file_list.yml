@@ -1,0 +1,9 @@
+---
+file:
+                - name: /etc/passwd
+                  checksum: 028091820480-0`1djowue01u0312-0 /etc/passwd
+                - name: /etc/group
+                  checksum: wq9e8qwjkjdeqe-8-2q8e02ueedioqw0 /etc/group
+                - name: /etc/shadow
+                  checksum: wq9e8qwjkjdeqe-8-2q8e02ueedioqw0 /etc/shadow
+
